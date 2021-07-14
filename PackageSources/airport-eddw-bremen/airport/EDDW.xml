@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<Airport name="Bremen" ident="EDDW" lat="53.04733347147703" lon="8.78666684031487" alt="0.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
+	<Airport name="Bremen" ident="EDDW" lat="53.047389" lon="8.786750" alt="0.00000000000000" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE">
 		<TaxiName index="0" name=""/>
 		<Aprons/>
 		<PaintedElements/>
