@@ -24,7 +24,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\airport-eddw-bremen\airport\</AssetDir>
-			<OutputDir>scenery\</OutputDir>
+			<OutputDir>scenery\airport-eddw-bremen\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="materiallib">
 			<Type>MaterialLib</Type>
@@ -32,7 +32,7 @@
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
 			<AssetDir>PackageSources\airport-eddw-bremen\materialLib</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<OutputDir>MaterialLibs\airport-eddw-bremen\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
