@@ -15,32 +15,16 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageDefinitions\airport-eddw-bremen\ContentInfo</AssetDir>
-			<OutputDir>ContentInfo\airport-eddw-bremen</OutputDir>
+			<AssetDir>PackageDefinitions\airport-eddw-bremen\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\airport-eddw-bremen\</OutputDir>
 		</AssetGroup>
 		<AssetGroup Name="airport">
 			<Type>BGL</Type>
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\airport-eddw-bremen\airport</AssetDir>
-			<OutputDir>scenery</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="modellib">
-			<Type>ArtProj</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\airport-eddw-bremen\modelLib</AssetDir>
-			<OutputDir>scenery</OutputDir>
-		</AssetGroup>
-		<AssetGroup Name="scenery">
-			<Type>BGL</Type>
-			<Flags>
-				<FSXCompatibility>false</FSXCompatibility>
-			</Flags>
-			<AssetDir>PackageSources\airport-eddw-bremen\scenery</AssetDir>
-			<OutputDir>scenery</OutputDir>
+			<AssetDir>PackageSources\airport-eddw-bremen\airport\</AssetDir>
+			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
