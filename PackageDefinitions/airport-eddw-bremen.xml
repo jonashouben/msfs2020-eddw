@@ -26,6 +26,14 @@
 			<AssetDir>PackageSources\airport-eddw-bremen\airport\</AssetDir>
 			<OutputDir>scenery\</OutputDir>
 		</AssetGroup>
+		<AssetGroup Name="materiallib">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\airport-eddw-bremen\materialLib</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
 	</AssetGroups>
 </AssetPackage>
 
