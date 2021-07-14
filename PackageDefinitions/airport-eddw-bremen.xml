@@ -1,0 +1,47 @@
+<AssetPackage Name="airport-eddw-bremen" Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>Airport Bremen</Title>
+		<Manufacturer/>
+		<Creator>Jonas Houben</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\airport-eddw-bremen\ContentInfo</AssetDir>
+			<OutputDir>ContentInfo\airport-eddw-bremen</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="airport">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\airport-eddw-bremen\airport</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="modellib">
+			<Type>ArtProj</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\airport-eddw-bremen\modelLib</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\airport-eddw-bremen\scenery</AssetDir>
+			<OutputDir>scenery</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+
