@@ -1,4 +1,4 @@
-<AssetPackage Name="airport-eddw-bremen" Version="0.1.0">
+<AssetPackage Name="airport-eddw-bremen" Version="0.2.0">
 	<ItemSettings>
 		<ContentType>SCENERY</ContentType>
 		<Title>Airport Bremen</Title>
@@ -31,7 +31,7 @@
 			<Flags>
 				<FSXCompatibility>false</FSXCompatibility>
 			</Flags>
-			<AssetDir>PackageSources\airport-eddw-bremen\materialLib</AssetDir>
+			<AssetDir>PackageSources\airport-eddw-bremen\materialLib\</AssetDir>
 			<OutputDir>MaterialLibs\airport-eddw-bremen\</OutputDir>
 		</AssetGroup>
 	</AssetGroups>
