@@ -1,0 +1,14 @@
+name: Lint XML sources
+
+on: [push, pull_request]
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
+      - name: Install xmllint
+        run: sudo apt-get -y --no-install-recommends install libxml2-utils
+      - name: Lint
+        run: find . -type f -iname "*.xml" | xargs -I '{}' xmllint --noout '{}';
