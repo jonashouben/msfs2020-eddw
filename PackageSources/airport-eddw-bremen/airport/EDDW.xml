@@ -260,6 +260,7 @@
 	<SceneryObject lat="53.05114533360269" lon="8.78764224565274" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-41.000000" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
 		<LibraryObject name="{F44AA0C4-EAB6-4B17-8619-C58DAE92DACB}" scale="1.000000"/>
 	</SceneryObject>
+	<Rectangle width="24.855585" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="53.04394920329432" longitude="8.78208265607097" altitude="3.38189140427858" latitude2="53.04421640876729" longitude2="8.78208265607098" altitude2="3.38260475173593"/>
 	<Rectangle width="35.521915" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="53.04611335096806" longitude="8.76042195156223" altitude="4.77965968940407" latitude2="53.04643764093122" longitude2="8.76042195156223" altitude2="4.78052944131196"/>
 	<Rectangle width="12.250441" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="53.04709917944506" longitude="8.76685231780245" altitude="3.95516498293728" latitude2="53.04722968918666" longitude2="8.76685231780245" altitude2="3.95551593415439"/>
 	<Rectangle width="8.927796" falloff="500.000000" surface="{6C0C6528-5CF1-483A-A586-2C905CF2757E}" priority="0" latitude="53.04833574666774" longitude="8.76675597309859" altitude="3.96050292346627" latitude2="53.04834025484742" longitude2="8.76697013250136" altitude2="3.96060948818922"/>
